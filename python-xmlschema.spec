@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Biblioteka do sprawdzania poprawno≈õci i dekodowania schemat√
 Name:		python-xmlschema
 # keep 1.0.x here for python2 support
 Version:	1.0.18
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/xmlschema/
